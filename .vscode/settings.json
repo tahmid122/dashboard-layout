@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/02c1ecfc-171d-4534-bce9-d140fe442458/resourceGroups/sharek-app-qatar/providers/Microsoft.Web/sites/Sharek-admin-qatar",
+  "appService.deploySubpath": "."
+}
